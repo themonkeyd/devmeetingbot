@@ -26,8 +26,8 @@ MOIS_FR = {
 }
 
 # Tour fixe 1 (nov-mars) et 2 (avr-août)
-TOUR_1 = {11: "Loic", 12: "Harrison", 1: "Marc", 2: "Tanguy", 3: "Ifeyi"}
-TOUR_2 = {4: "Ifeyi", 5: "Tanguy", 6: "Marc", 7: "Harrison", 8: "Loic"}
+TOUR_1 = {11: "Tanguy", 12: "Harrison", 1: "Marc", 2: "Loic", 3: "Ifeyi"}
+TOUR_2 = {4: "Ifeyi", 5: "Loic", 6: "Marc", 7: "Harrison", 8: "Tanguy"}
 
 
 class MeetingManager:
